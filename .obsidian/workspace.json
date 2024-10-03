@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0984fe2a5a54028a",
+        "id": "fd26d8921bebf921",
         "type": "tabs",
         "children": [
           {
-            "id": "6f7da1766786fc78",
+            "id": "d36259c66969657d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Politics.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,12 +89,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "6f7da1766786fc78",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "8565c697368e48e4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Politics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Politics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Politics.md"
               }
             }
           },
@@ -145,7 +153,14 @@
               "type": "calendar",
               "state": {}
             }
-          },
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "106d6e393fe9813e",
+        "type": "tabs",
+        "children": [
           {
             "id": "f9e90634a6f0a1fa",
             "type": "leaf",
@@ -153,9 +168,17 @@
               "type": "mathpad-view",
               "state": {}
             }
+          },
+          {
+            "id": "a432cbba663c61f3",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,18 +197,19 @@
       "obsidian-kanban:Create new board": false,
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
-      "pomodoro-timer:Toggle timer panel": false,
       "obsidian-full-calendar:Open Full Calendar": false,
+      "pomodoro-timer:Toggle timer panel": false,
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "f9e90634a6f0a1fa",
+  "active": "d36259c66969657d",
   "lastOpenFiles": [
+    "Politics.md",
+    "Turtle Civilisation.md",
+    "Welcome.md",
     "Tags",
     "Conservatives.md",
-    "Welcome.md",
     "Vault.md",
-    "Turtle Civilisation.md",
     "Testing.md",
     "Templates/Political Party Note.md",
     "Templates",
@@ -193,7 +217,6 @@
     "Scottish National Party (SPN).md",
     "Research Information.md",
     "Reform UK.md",
-    "Politics.md",
     "PC specs.md",
     "Liberal Democrats.md",
     "Labour Party.md",
