@@ -12,5 +12,3 @@ The top 7 parties in the general election are:
   [[Green Party]]
   [[Reform UK]]
   [[Scottish National Party (SPN)]]
-
-///
