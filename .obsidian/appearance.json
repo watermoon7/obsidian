@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 16,
+  "theme": "obsidian",
+  "cssTheme": "Mado Miniflow",
+  "interfaceFontFamily": "Andale Mono",
+  "textFontFamily": "Hiragino Sans",
+  "monospaceFontFamily": "Courier New",
+  "baseFontSizeAction": false,
+  "translucency": false
+}
