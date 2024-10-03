@@ -5,7 +5,7 @@ tags: research
 
 > Leader: Rishi Sunak
 > Political compass: 90% Right wing | 75% Authoritarian
-> Predicted poll: 20% (20th June)
+> Predicted poll: 20% (19th June)
 > Seats:  (%)
 > Votes:  (%)
 
