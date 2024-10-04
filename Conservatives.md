@@ -6,8 +6,8 @@ tags: research
 > Leader: Rishi Sunak
 > Political compass: 90% Right wing | 75% Authoritarian
 > Predicted poll: 21% (3rd July)
-> Seats: 121 (%)
-> Votes:  (%)
+> Seats: 121 (18.6%)
+> Votes: 6,828,925 (23.7%)
 
 # Manifesto key policies
 
