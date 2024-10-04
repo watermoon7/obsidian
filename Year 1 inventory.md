@@ -13,8 +13,6 @@ Categories:
 - Toiletries
 - Utilities
 
-Cloths, Food, Kitchenware, Stationary, Health products, Bedding, Technology, Toiletries, Cleaning products, Utilities (bags and racks), Other (drivers licence, wallet, money) ((maybe rename to finance))
-
 # Bedding
 
 | Item                | Quantity |
@@ -29,95 +27,108 @@ Cloths, Food, Kitchenware, Stationary, Health products, Bedding, Technology, Toi
 
 | Item                        | Quantity |
 | --------------------------- | -------- |
-| Washing up pods (box of 20) | 1        |
+| Anti-bacterial spray        | 1        |
 | Fairy Liquid Bottle         | 1        |
+| Packs of tissues            | 8        |
 | Sponge                      | 1        |
+| Washing up pods (box of 20) | 1        |
+| Wipes                       | 1        |
 # Cloths
 
 | Item                    | Quantity |
 | ----------------------- | -------- |
-| Trainers                | 2        |
-| Crocs                   | 1        |
-| Smart shoes             | 1        |
-| Coat                    | 1        |
-| Hoodies                 | 4        |
-| Jumpers                 | 4        |
-| T-Shirts                | 14       |
-| Full black suit         | 1        |
-| Sub-fusc (gown and hat) | 1        |
-| Jogging bottoms         | 7        |
-| Trousers                | 1        |
-| Shorts                  | 6        |
-| Underwear               | 14       |
-| Pairs of socks          | 14       |
 | Bow tie                 | 1        |
+| Coat                    | 1        |
+| Crocs                   | 1        |
+| Full black suit         | 1        |
+| Hoodies                 | 4        |
+| Jogging bottoms         | 7        |
+| Jumpers                 | 4        |
+| Pairs of socks          | 14       |
+| Shorts                  | 6        |
+| Smart shoes             | 1        |
+| Sub-fusc (gown and hat) | 1        |
+| T-Shirts                | 14       |
+| Trainers                | 2        |
+| Trousers                | 1        |
+| Underwear               | 14       |
 # Entertainment
 
 | Item             | Quantity |
 | ---------------- | -------- |
-| Pack of cards    | 2        |
 | Books            | TBD      |
-| Rubix cube       | 1        |
 | Keyboard (piano) | 1        |
+| Pack of cards    | 2        |
+| Rubix cube       | 1        |
 | Sheet music      | TBD      |
 # Food
 
-| Item | Quantity |
-| ---- | -------- |
-|      |          |
+| Item                      | Quantity |
+| ------------------------- | -------- |
+| Box of breakfast bar      | 3        |
+| Chocolate bars (big ones) | 2        |
+| Chocolate tub             | 1        |
+| Crisps                    | 3        |
+| Sweets                    | 5        |
 # Health Products
 
-| Item    | Quantity |
-| ------- | -------- |
-| Inhaler | 2        |
-| Spacer  | 1        |
-|         |          |
+| Item          | Quantity |
+| ------------- | -------- |
+| Antihistamine | 1        |
+| First-aid kit | 1        |
+| Inhaler       | 2        |
+| Lemsip        | 1        |
+| Paracetomol   | 1        |
+| Spacer        | 1        |
+| Strepsils     | 1        |
+
 # Other
 
-| Item            | Quantity |
-| --------------- | -------- |
-| Backpack        | 1        |
-| Water Bottle    | 3        |
-| Drivers licence | 1        |
-| Debit card      | 1        |
-| Card reader     | 1        |
-| Multi-tool      | 1        |
-| Wallet          | 1        |
-| Money (cash)    | 200      |
+| Item                     | Quantity |
+| ------------------------ | -------- |
+| Backpack                 | 1        |
+| Card reader              | 1        |
+| Debit card               | 1        |
+| Drivers licence          | 1        |
+| Good looking sun glasses | 1        |
+| Money (cash)             | 200      |
+| Multi-tool               | 1        |
+| Wallet                   | 1        |
+| Water Bottle             | 3        |
 
 # Kitchenware
 
 | Item         | Quantity |
 | ------------ | -------- |
+| Bowls        | 2        |
+| Cutlery set  | 1        |
 | Kettle       | 1        |
 | Mugs         | 3        |
-| Cutlery set  | 1        |
 | Plates       | 2        |
 | Small plates | 2        |
-| Bowls        | 2        |
 | Tea towels   | 2        |
 # Stationary
 
 | Item                  | Quantity |
 | --------------------- | -------- |
-| Pens                  | 50       |
-| Pencils               | 20       |
-| Rubbers               | 5        |
-| Pencil sharpeners     | 3        |
-| Sharpies              | 40       |
-| Highlighters          | 10       |
 | Compass               | 1        |
-| Stapler               | 1        |
-| Hole puncher          | 1        |
-| Paper clips           | 100      |
 | Glue stick            | 1        |
-| Roll of tape          | 1        |
+| Graphing Calculator   | 1        |
+| Highlighters          | 10       |
+| Hole puncher          | 1        |
 | Note pad              | 12       |
 | Paper                 | Lots     |
+| Paper clips           | 100      |
+| Pencil sharpeners     | 3        |
+| Pencils               | 20       |
+| Pens                  | 50       |
+| Roll of tape          | 1        |
+| Rubbers               | 5        |
 | Ruler                 | 3        |
 | Scientific Calculator | 1        |
-| Graphing Calculator   | 1        |
 | Scissors              | 1        |
+| Sharpies              | 40       |
+| Stapler               | 1        |
 | Stationary rack       | 1        |
 | Whiteboard            | 1        |
 | Whiteboard pens       | 10       |
@@ -125,39 +136,40 @@ Cloths, Food, Kitchenware, Stationary, Health products, Bedding, Technology, Toi
 
 | Item                | Quantity |
 | ------------------- | -------- |
-| Laptop              | 1        |
-| PC                  | 1        |
-| Mouse               | 2        |
-| Monitor             | 1        |
-| Keyboard            | 1        |
-| HDMI cable          | 1        |
-| PC power cable      | 1        |
-| USB-C charger       | 2        |
-| Thunderbolt charger | 5        |
-| Headphones          | 2        |
-| Phone               | 1        |
-| Extension cable     | 2        |
-| Power bank          | 2        |
-| Xbox                | 1        |
-| Controller          | 4        |
 | AA Batteries        | 10       |
+| Controller          | 4        |
+| Ear plugs           | 1        |
+| Extension cable     | 2        |
+| HDMI cable          | 1        |
+| Headphones          | 2        |
+| Keyboard            | 1        |
+| Laptop              | 1        |
+| Monitor             | 1        |
+| Mouse               | 2        |
+| PC                  | 1        |
+| PC power cable      | 1        |
+| Phone               | 1        |
+| Power bank          | 2        |
+| Thunderbolt charger | 5        |
+| USB-C charger       | 2        |
+| Xbox                | 1        |
 # Toiletries
 
 | Item                | Quantity   |
 | ------------------- | ---------- |
-| Tooth brush         | 2          |
-| Tube of tooth paste | 2          |
-| Shampoo             | 1          |
 | Conditioner         | 1          |
 | Deoderant           | 1          |
-| Hairbrush           | 1          |
 | Hairbands           | A fuck ton |
+| Hairbrush           | 1          |
+| Shampoo             | 1          |
+| Tooth brush         | 2          |
 | Towels              | 2          |
+| Tube of tooth paste | 2          |
 # Utilities
 
 | Item        | Quantity |
 | ----------- | -------- |
 | Cloths Rack | 1        |
-| Laundry Bag | 1        |
 | Lamp        | 1        |
+| Laundry Bag | 1        |
 
