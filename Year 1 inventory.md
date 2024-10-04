@@ -33,9 +33,23 @@ Cloths, Food, Kitchenware, Stationary, Health products, Bedding, Technology, Toi
 | Sponge                      | 1        |
 # Cloths
 
-| Item | Quantity |
-| ---- | -------- |
-|      |          |
+| Item                    | Quantity |
+| ----------------------- | -------- |
+| Trainers                | 2        |
+| Crocs                   | 1        |
+| Smart shoes             | 1        |
+| Coat                    | 1        |
+| Hoodies                 | 4        |
+| Jumpers                 | 4        |
+| T-Shirts                | 14       |
+| Full black suit         | 1        |
+| Sub-fusc (gown and hat) | 1        |
+| Jogging bottoms         | 7        |
+| Trousers                | 1        |
+| Shorts                  | 6        |
+| Underwear               | 14       |
+| Pairs of socks          | 14       |
+| Bow tie                 | 1        |
 # Food
 
 | Item | Quantity |
@@ -43,18 +57,18 @@ Cloths, Food, Kitchenware, Stationary, Health products, Bedding, Technology, Toi
 |      |          |
 # Health Products
 
-| Item | Quantity |
-| ---- | -------- |
-|      |          |
-|      |          |
+| Item    | Quantity |
+| ------- | -------- |
+| Inhaler | 2        |
+| Spacer  | 1        |
+|         |          |
 # Other
 
 | Item         | Quantity |
 | ------------ | -------- |
 | Backpack     | 1        |
 | Water Bottle | 3        |
-| Trainers     | 2        |
-| Crocs        |          |
+
 # Kitchenware
 
 | Item         | Quantity |
