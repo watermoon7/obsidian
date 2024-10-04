@@ -5,7 +5,7 @@ tags: research
 
 > Leader: Keir Starmer
 > Political compass: 55% Right wing | 55% Authoritarian
-> Predicted Poll: 41% (20th June)
+> Predicted Poll: 39% (3rd July)
 > Seats: 412 (63.4%)
 > Votes: 9,708,716 (33.7%)
 

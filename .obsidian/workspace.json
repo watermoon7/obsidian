@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d36259c66969657d",
+            "id": "eb590d37af5db71b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Conservatives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d36259c66969657d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Labour Party.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,13 +214,14 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "d36259c66969657d",
+  "active": "eb590d37af5db71b",
   "lastOpenFiles": [
     "Labour Party.md",
+    "Turtle Civilisation.md",
+    "Factorio furnace calculations.md",
+    "Politics.md",
     "Conservatives.md",
     "Liberal Democrats.md",
-    "Politics.md",
-    "Turtle Civilisation.md",
     "Welcome.md",
     "Tags",
     "Vault.md",
@@ -221,7 +234,6 @@
     "Reform UK.md",
     "PC specs.md",
     "Green Party.md",
-    "Factorio furnace calculations.md",
     "Design of the program.md",
     "Assets/turtle_recipe.png",
     "Assets/factorio_drill_speeds.png",
