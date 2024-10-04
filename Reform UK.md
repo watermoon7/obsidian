@@ -18,6 +18,9 @@ tags: research
 5. Banning gender questioning, social transitioning and pronoun swapping in schools i.e. "banning transgender ideology"
 6. Ban "critical race theory" in schools and any teaching of slavery must be paired with the teaching of non-European slavery as a counterpart
 7. Encouraging parents to sent their children to private schools 20% tax relief on fees
+8. An extra £17bn for the NHS (much higher than the [[Labour Party]], [[Conservatives]], and the [[Liberal Democrats]])
+9. Ban sales of petrol and diesel cars from 2035
+10. Scrapping TV licences 💀
 
 # Notes
 
