@@ -4,6 +4,7 @@ Categories:
 - Cleaning Products
 - Cloths
 - Food
+- Entertainment
 - Health Products
 - Other
 - Kitchenware
@@ -50,6 +51,15 @@ Cloths, Food, Kitchenware, Stationary, Health products, Bedding, Technology, Toi
 | Underwear               | 14       |
 | Pairs of socks          | 14       |
 | Bow tie                 | 1        |
+# Entertainment
+
+| Item             | Quantity |
+| ---------------- | -------- |
+| Pack of cards    | 2        |
+| Books            | TBD      |
+| Rubix cube       | 1        |
+| Keyboard (piano) | 1        |
+| Sheet music      | TBD      |
 # Food
 
 | Item | Quantity |
@@ -64,10 +74,16 @@ Cloths, Food, Kitchenware, Stationary, Health products, Bedding, Technology, Toi
 |         |          |
 # Other
 
-| Item         | Quantity |
-| ------------ | -------- |
-| Backpack     | 1        |
-| Water Bottle | 3        |
+| Item            | Quantity |
+| --------------- | -------- |
+| Backpack        | 1        |
+| Water Bottle    | 3        |
+| Drivers licence | 1        |
+| Debit card      | 1        |
+| Card reader     | 1        |
+| Multi-tool      | 1        |
+| Wallet          | 1        |
+| Money (cash)    | 200      |
 
 # Kitchenware
 
@@ -100,7 +116,11 @@ Cloths, Food, Kitchenware, Stationary, Health products, Bedding, Technology, Toi
 | Paper                 | Lots     |
 | Ruler                 | 3        |
 | Scientific Calculator | 1        |
-| Graphing Calculator   |          |
+| Graphing Calculator   | 1        |
+| Scissors              | 1        |
+| Stationary rack       | 1        |
+| Whiteboard            | 1        |
+| Whiteboard pens       | 10       |
 # Technology
 
 | Item                | Quantity |
