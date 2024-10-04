@@ -12,7 +12,7 @@ tags: research
 # Manifesto key policies
 
 1. Pushing for another referendum to determine whether Scotland should stay in the UK.
-2. 
+2. Pledged £1.6bn to the NHS
 3. 
 
 # Notes
