@@ -9,6 +9,7 @@ tags: research
 > Seats:  (%)
 > Votes:  (%)
 
+SHUT THE FUCK UP
 # Manifesto key policies
 
 1. Rishi Sunak has set a goal of building 1.6 million houses in five years.
