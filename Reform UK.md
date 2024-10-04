@@ -11,8 +11,8 @@ tags: research
 
 # Manifesto key policies
 
-1. 
-2. 
+1. Ban non-essential immigration such as partners and children of foreign students and workers. Also, employers will have to pay 20% national insurance on foreign workers as apposed to 12% on British workers
+2. Tax cuts for small businesses e.g., intoducing a tax free 
 3. 
 
 # Notes
