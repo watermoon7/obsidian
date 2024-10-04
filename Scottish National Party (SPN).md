@@ -5,7 +5,7 @@ tags: research
 
 > Leader: 
 > Political compass: 
-> Predicted poll: 3% (20th June)
+> Predicted poll: 3% (3rd July)
 > Seats: (%)
 > Votes: (%)
 

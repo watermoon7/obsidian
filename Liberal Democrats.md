@@ -4,7 +4,7 @@ tags: research
 # Overview
 
 > Leader: 
-> Political compass: 
+> Political compass: 50% right wing | 10% Authoritarian
 > Predicted poll: 11% (3rd July)
 > Seats: (%)
 > Votes: (%)

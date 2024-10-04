@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scottish National Party (SPN).md",
+                "file": "Conservatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scottish National Party (SPN).md",
+                "file": "Conservatives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scottish National Party (SPN).md"
+                "file": "Conservatives.md"
               }
             }
           },
@@ -237,8 +236,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -262,14 +260,14 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "48cb4a43f2b1ba47",
+  "active": "eb590d37af5db71b",
   "lastOpenFiles": [
-    "Liberal Democrats.md",
-    "Scottish National Party (SPN).md",
-    "Green Party.md",
-    "Reform UK.md",
-    "Conservatives.md",
     "Labour Party.md",
+    "Conservatives.md",
+    "Reform UK.md",
+    "Liberal Democrats.md",
+    "Green Party.md",
+    "Scottish National Party (SPN).md",
     "Turtle Civilisation.md",
     "Factorio furnace calculations.md",
     "Politics.md",
