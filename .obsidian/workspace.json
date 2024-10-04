@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI Hub.md",
+                "file": "Year 1 inventory.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Year 1 inventory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Year 1 inventory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Year 1 inventory.md"
+              }
             }
           },
           {
@@ -149,8 +153,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "5efa70df2dc54c68",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "106d6e393fe9813e",
@@ -196,9 +209,10 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "6f7da1766786fc78",
+  "active": "5efa70df2dc54c68",
   "lastOpenFiles": [
     "UNI Hub.md",
+    "Year 1 inventory.md",
     "Green Party.md",
     "Scottish National Party (SPN).md",
     "Labour Party.md",
