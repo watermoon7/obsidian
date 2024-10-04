@@ -5,11 +5,10 @@ tags: research
 
 > Leader: Rishi Sunak
 > Political compass: 90% Right wing | 75% Authoritarian
-> Predicted poll: 20% (19th June)
+> Predicted poll: 20% (3rd June)
 > Seats:  (%)
 > Votes:  (%)
 
-SHUT THE FUCK UP
 # Manifesto key policies
 
 1. Rishi Sunak has set a goal of building 1.6 million houses in five years.
