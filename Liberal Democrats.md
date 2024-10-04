@@ -15,7 +15,9 @@ tags: research
 2. A promise of 8,000 more GPs and a 62 day guarantee to urgent cancer treatment
 3. Raise levies on banks and reform capital gains tax in total netting £9bn 
 4. Abolish current salary threshold for migrant workers and end the ban on foreign care workers bringing family to the UK. They would scrap the Rwanda scheme.
-5. Reach net 
+5. Reach net zero by 2045
+6. Remove the two child limit on Universal Credit and Child Tax Credit - the limit on the total benefits of one household
+7. 
 
 # Notes
 
