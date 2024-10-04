@@ -15,7 +15,9 @@ tags: research
 2. Tax cuts for small businesses e.g., introducing a tax free allowance of £100k in profits and lifting the threshold when businesses have to be VAT insured from £90k to £150k
 3. Set up a royal commission for healthcare for the elderly in need of support
 4. Scrap the net zero target
-5. 
+5. Banning gender questioning, social transitioning and pronoun swapping in schools i.e. "banning transgender ideology"
+6. Ban "critical race theory" in schools and any teaching of slavery must be paired with the teaching of non-European slavery as a counterpart
+7. Encouraging parents to sent their children to private schools 20% tax relief on fees
 
 # Notes
 
