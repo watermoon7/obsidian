@@ -15,6 +15,9 @@ tags: research
 2. Pledged £1.6bn to the NHS
 3. Scrap the two-child limit on benefits
 4. Ceasefire in Gaza and scrap Trident
+5. Re-join the EU and the single market
+6. Attract more foreign migrants by lowering the barriers in place for migration
+7. Increase maternity pay to 100% of average weekly earnings for the first 12 weeks of lea
 
 # Notes
 
