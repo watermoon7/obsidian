@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -151,6 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Labour Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,6 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Labour Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +189,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Labour Party.md"
+              }
             }
           },
           {
@@ -245,12 +248,12 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "6f7da1766786fc78",
+  "active": "d36259c66969657d",
   "lastOpenFiles": [
-    "create a link.md",
-    "Scottish National Party (SPN).md",
-    "Green Party.md",
     "Liberal Democrats.md",
+    "Scottish National Party (SPN).md",
+    "create a link.md",
+    "Green Party.md",
     "Reform UK.md",
     "Labour Party.md",
     "Conservatives.md",
