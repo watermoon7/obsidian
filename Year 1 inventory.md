@@ -116,6 +116,11 @@ Cloths, Food, Kitchenware, Stationary, Health products, Bedding, Technology, Toi
 | Thunderbolt charger | 5        |
 | Headphones          | 2        |
 | Phone               | 1        |
+| Extension cable     | 2        |
+| Power bank          | 2        |
+| Xbox                | 1        |
+| Controller          | 4        |
+| AA Batteries        | 10       |
 # Toiletries
 
 | Item                | Quantity   |
