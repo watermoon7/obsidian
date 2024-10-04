@@ -1,11 +1,11 @@
 ---
-tags: project
+tags:
 ---
 #research
 
-Notes on some of the political parties in the 2024 UK general election. 
+Notes on some of the political parties in the 2024 UK election. 
 
-The top 6 parties in the general election are:
+The top 6 parties (by vote polls) in the general election are:
 >[[Labour Party]]
   [[Conservatives]]
   [[Liberal Democrats]]
