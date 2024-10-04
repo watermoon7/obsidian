@@ -3,7 +3,7 @@ tags: research
 ---
 # Overview
 
-> Leader: 
+> Leader: John Swinney
 > Political compass: 20% Left wing | 10% Libertarian
 > Predicted poll: 3% (3rd July)
 > Seats: 9 (1.4%)
@@ -11,7 +11,7 @@ tags: research
 
 # Manifesto key policies
 
-1. 
+1. Pushing for another referendum to determine whether Scotland should stay in the UK.
 2. 
 3. 
 

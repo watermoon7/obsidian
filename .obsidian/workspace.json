@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -151,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Green Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Green Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,9 +188,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Green Party.md"
-              }
+              "state": {}
             }
           },
           {
@@ -249,12 +245,13 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "cdf10f0a95eea82c",
+  "active": "6f7da1766786fc78",
   "lastOpenFiles": [
+    "create a link.md",
+    "Scottish National Party (SPN).md",
+    "Green Party.md",
     "Liberal Democrats.md",
     "Reform UK.md",
-    "Green Party.md",
-    "Scottish National Party (SPN).md",
     "Labour Party.md",
     "Conservatives.md",
     "2024 UK Election.md",
