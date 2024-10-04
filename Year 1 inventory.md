@@ -48,9 +48,9 @@ Cloths, Food, Kitchenware, Stationary, Health products, Bedding, Technology, Toi
 |      |          |
 # Other
 
-| Item        | Quantity |
-| ----------- | -------- |
-| Laundry Bag | 1        |
+| Item | Quantity |
+| ---- | -------- |
+|      |          |
 # Kitchenware
 
 | Item         | Quantity |
@@ -64,9 +64,24 @@ Cloths, Food, Kitchenware, Stationary, Health products, Bedding, Technology, Toi
 | Tea towels   | 2        |
 # Stationary
 
-| Item | Quantity |
-| ---- | -------- |
-|      |          |
+| Item              | Quantity |
+| ----------------- | -------- |
+| Pens              | 50       |
+| Pencils           | 20       |
+| Rubbers           | 5        |
+| Pencil sharpeners | 3        |
+| Sharpies          | 40       |
+| Highlighters      | 10       |
+| Compass           | 1        |
+| Stapler           | 1        |
+| Hole puncher      | 1        |
+| Paper clips       | 100      |
+| Glue stick        | 1        |
+| Roll of tape      | 1        |
+| Note pad          | 12       |
+| Paper             | Lots     |
+| Ruler             | 3        |
+|                   |          |
 # Technology
 
 | Item | Quantity |
@@ -75,13 +90,23 @@ Cloths, Food, Kitchenware, Stationary, Health products, Bedding, Technology, Toi
 
 # Toiletries
 
-| Item | Quantity |
-| ---- | -------- |
-|      |          |
+| Item                | Quantity   |
+| ------------------- | ---------- |
+| Tooth brush         | 2          |
+| Tube of tooth paste | 2          |
+| Shampoo             | 1          |
+| Conditioner         | 1          |
+| Deoderant           | 1          |
+| Hairbrush           | 1          |
+| Hairbands           | A fuck ton |
+| Towels              | 2          |
+
 
 # Utilities
 
-| Item | Quantity |
-| ---- | -------- |
-|      |          |
+| Item        | Quantity |
+| ----------- | -------- |
+| Cloths Rack | 1        |
+| Laundry Bag | 1        |
+| Lamp        | 1        |
 
