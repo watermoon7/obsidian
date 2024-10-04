@@ -17,7 +17,10 @@ tags: research
 4. Abolish current salary threshold for migrant workers and end the ban on foreign care workers bringing family to the UK. They would scrap the Rwanda scheme.
 5. Reach net zero by 2045
 6. Remove the two child limit on Universal Credit and Child Tax Credit - the limit on the total benefits of one household
-7. 
+7. Triple the early years pupil premium - an initiative aimed at funding the education of disadvantaged 3-4 year olds 
+8. A pledge to recognise non-binary identities and ban conversion therapy
+9. Give 16-17 year olds a votes
+10. Re-join the single market with the EU
 
 # Notes
 
