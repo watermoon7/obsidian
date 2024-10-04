@@ -46,11 +46,15 @@ Cloths, Food, Kitchenware, Stationary, Health products, Bedding, Technology, Toi
 | Item | Quantity |
 | ---- | -------- |
 |      |          |
+|      |          |
 # Other
 
-| Item | Quantity |
-| ---- | -------- |
-|      |          |
+| Item         | Quantity |
+| ------------ | -------- |
+| Backpack     | 1        |
+| Water Bottle | 3        |
+| Trainers     | 2        |
+| Crocs        |          |
 # Kitchenware
 
 | Item         | Quantity |
@@ -64,30 +68,40 @@ Cloths, Food, Kitchenware, Stationary, Health products, Bedding, Technology, Toi
 | Tea towels   | 2        |
 # Stationary
 
-| Item              | Quantity |
-| ----------------- | -------- |
-| Pens              | 50       |
-| Pencils           | 20       |
-| Rubbers           | 5        |
-| Pencil sharpeners | 3        |
-| Sharpies          | 40       |
-| Highlighters      | 10       |
-| Compass           | 1        |
-| Stapler           | 1        |
-| Hole puncher      | 1        |
-| Paper clips       | 100      |
-| Glue stick        | 1        |
-| Roll of tape      | 1        |
-| Note pad          | 12       |
-| Paper             | Lots     |
-| Ruler             | 3        |
-|                   |          |
+| Item                  | Quantity |
+| --------------------- | -------- |
+| Pens                  | 50       |
+| Pencils               | 20       |
+| Rubbers               | 5        |
+| Pencil sharpeners     | 3        |
+| Sharpies              | 40       |
+| Highlighters          | 10       |
+| Compass               | 1        |
+| Stapler               | 1        |
+| Hole puncher          | 1        |
+| Paper clips           | 100      |
+| Glue stick            | 1        |
+| Roll of tape          | 1        |
+| Note pad              | 12       |
+| Paper                 | Lots     |
+| Ruler                 | 3        |
+| Scientific Calculator | 1        |
+| Graphing Calculator   |          |
 # Technology
 
-| Item | Quantity |
-| ---- | -------- |
-|      |          |
-
+| Item                | Quantity |
+| ------------------- | -------- |
+| Laptop              | 1        |
+| PC                  | 1        |
+| Mouse               | 2        |
+| Monitor             | 1        |
+| Keyboard            | 1        |
+| HDMI cable          | 1        |
+| PC power cable      | 1        |
+| USB-C charger       | 2        |
+| Thunderbolt charger | 5        |
+| Headphones          | 2        |
+| Phone               | 1        |
 # Toiletries
 
 | Item                | Quantity   |
@@ -100,8 +114,6 @@ Cloths, Food, Kitchenware, Stationary, Health products, Bedding, Technology, Toi
 | Hairbrush           | 1          |
 | Hairbands           | A fuck ton |
 | Towels              | 2          |
-
-
 # Utilities
 
 | Item        | Quantity |
