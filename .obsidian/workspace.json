@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eb590d37af5db71b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conservatives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d36259c66969657d",
             "type": "leaf",
             "state": {
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -264,13 +252,13 @@
   "active": "cdf10f0a95eea82c",
   "lastOpenFiles": [
     "Liberal Democrats.md",
-    "Labour Party.md",
     "Reform UK.md",
+    "Green Party.md",
+    "Scottish National Party (SPN).md",
+    "Labour Party.md",
     "Conservatives.md",
     "2024 UK Election.md",
     "Turtle Civilisation.md",
-    "Scottish National Party (SPN).md",
-    "Green Party.md",
     "Factorio furnace calculations.md",
     "Welcome.md",
     "Tags",
