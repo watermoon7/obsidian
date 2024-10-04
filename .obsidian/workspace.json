@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Labour Party.md",
+                "file": "Scottish National Party (SPN).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Labour Party.md",
+                "file": "Scottish National Party (SPN).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Labour Party.md"
+                "file": "Scottish National Party (SPN).md"
               }
             }
           },
@@ -248,14 +249,14 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "d36259c66969657d",
+  "active": "48cb4a43f2b1ba47",
   "lastOpenFiles": [
+    "Labour Party.md",
     "Liberal Democrats.md",
     "Scottish National Party (SPN).md",
     "create a link.md",
     "Green Party.md",
     "Reform UK.md",
-    "Labour Party.md",
     "Conservatives.md",
     "2024 UK Election.md",
     "Turtle Civilisation.md",

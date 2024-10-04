@@ -13,7 +13,8 @@ tags: research
 
 1. Pushing for another referendum to determine whether Scotland should stay in the UK.
 2. Pledged £1.6bn to the NHS
-3. 
+3. Scrap the two-child limit on benefits
+4. Ceasefire in Gaza and scrap Trident
 
 # Notes
 
