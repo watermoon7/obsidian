@@ -5,7 +5,14 @@ Categories:
 - Cloths
 - Food
 - Health Products
-Cloths, Food, Kitchenware, Stationary, Health products, Bedding, Technology, Toiletries, Cleaning products, Utilities (bags and racks), Other (drivers licence, wallet, money)
+- Other
+- Kitchenware
+- Stationary
+- Technology
+- Toiletries
+- Utilities
+
+Cloths, Food, Kitchenware, Stationary, Health products, Bedding, Technology, Toiletries, Cleaning products, Utilities (bags and racks), Other (drivers licence, wallet, money) ((maybe rename to finance))
 
 # Bedding
 
@@ -17,25 +24,23 @@ Cloths, Food, Kitchenware, Stationary, Health products, Bedding, Technology, Toi
 | Duvet Covers        | 1        |
 | Pillow              | 2        |
 | Pillow covers       | 2        |
-
 # Cleaning Products
 
-| Item | Quantity |
-| ---- | -------- |
-|      |          |
-
+| Item                        | Quantity |
+| --------------------------- | -------- |
+| Washing up pods (box of 20) | 1        |
+| Fairy Liquid Bottle         | 1        |
+| Sponge                      | 1        |
 # Cloths
 
 | Item | Quantity |
 | ---- | -------- |
 |      |          |
-
 # Food
 
 | Item | Quantity |
 | ---- | -------- |
 |      |          |
-
 # Health Products
 
 | Item | Quantity |
@@ -43,22 +48,25 @@ Cloths, Food, Kitchenware, Stationary, Health products, Bedding, Technology, Toi
 |      |          |
 # Other
 
-| Item | Quantity |
-| ---- | -------- |
-|      |          |
-
+| Item        | Quantity |
+| ----------- | -------- |
+| Laundry Bag | 1        |
 # Kitchenware
 
-| Item | Quantity |
-| ---- | -------- |
-|      |          |
-
+| Item         | Quantity |
+| ------------ | -------- |
+| Kettle       | 1        |
+| Mugs         | 3        |
+| Cutlery set  | 1        |
+| Plates       | 2        |
+| Small plates | 2        |
+| Bowls        | 2        |
+| Tea towels   | 2        |
 # Stationary
 
 | Item | Quantity |
 | ---- | -------- |
 |      |          |
-
 # Technology
 
 | Item | Quantity |
