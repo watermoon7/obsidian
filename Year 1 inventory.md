@@ -1,4 +1,4 @@
-peepee poopoo
+
 Categories:
 - Bedding
 - Cleaning Products
@@ -81,7 +81,6 @@ Categories:
 | Paracetomol   | 1        |
 | Spacer        | 1        |
 | Strepsils     | 1        |
-
 # Other
 
 | Item                     | Quantity |
@@ -95,7 +94,6 @@ Categories:
 | Multi-tool               | 1        |
 | Wallet                   | 1        |
 | Water Bottle             | 3        |
-
 # Kitchenware
 
 | Item         | Quantity |
