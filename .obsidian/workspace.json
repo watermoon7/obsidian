@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNI.md",
+                "file": "Maths Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UNI.md",
+                "file": "Maths Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNI.md",
+                "file": "Maths Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "UNI.md"
+                "file": "Maths Intro.md"
               }
             }
           },
@@ -223,15 +223,15 @@
   },
   "active": "f09a9de0a0cce983",
   "lastOpenFiles": [
-    "Maths Intro.md",
     "UNI.md",
+    "Maths Intro.md",
+    "Year 1 inventory.md",
     "Questions to ask.md",
     "Success Criteria.md",
     "Politics.md",
     "Welcome.md",
     "Research Information.md",
     "PC specs.md",
-    "Year 1 inventory.md",
     "Testing.md",
     "Green Party.md",
     "Scottish National Party (SPN).md",

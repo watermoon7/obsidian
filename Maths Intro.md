@@ -61,7 +61,7 @@ Trinity Term
 
 # Notes
 
-Include your name in your homework file name when you upload to teams.
+Include your name in your homework file name when you upload to teams
 
 Late homework will not be marked, unless there is a special circumstance
 
