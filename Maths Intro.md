@@ -48,7 +48,6 @@ Trinity Term
 # University Exams
 
 - Usually in 8th/9th week of Trinity Term
-- ﻿﻿Maths/MStats: five papers of 2.5h (M1, M2, M4) or 3h (M3, M5)
 - ﻿﻿MCS: Two Maths papers of 2.5h (M1, M2)
 - ﻿﻿Pass or resit/fail: does not count towards your final grade
 
