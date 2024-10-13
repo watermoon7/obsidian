@@ -23,14 +23,14 @@
 Michaelmas Term
 - ﻿﻿Introduction to University Mathematics  
 - Introduction to Complex Numbers
-- ﻿﻿MI: Linear Algebra I
+- ﻿﻿M1: Linear Algebra I
 - ﻿﻿M2: Analysis I - Sequences and Series
 - ﻿﻿M3: Probability
 
 Hilary Term  
-- MI: Linear Algebra II
+- M1: Linear Algebra II
 - M1: Groups and Group Actions
-- ﻿﻿M2: Analysis I - Continuity and Differentiability
+- ﻿﻿M2: Analysis II - Continuity and Differentiability
 
 Trinity Term
 - ﻿﻿M1: Groups and Group Actions
