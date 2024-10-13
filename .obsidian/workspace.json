@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a231d617803260e9",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reform UK.md",
+                "file": "Maths Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reform UK.md",
+                "file": "Maths Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reform UK.md"
+                "file": "Maths Intro.md"
               }
             }
           },
@@ -202,12 +203,8 @@
             "id": "8a39592de00223d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reform UK.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -235,16 +232,18 @@
       "mathpad:Open Mathpad": false
     }
   },
-  "active": "8a39592de00223d6",
+  "active": "8cf1df8f91eaf6e5",
   "lastOpenFiles": [
     "UNI.md",
-    "Questions to ask.md",
     "Maths Intro.md",
+    "Templates/Political Party Note.md",
+    "Welcome.md",
+    "Reform UK.md",
+    "Questions to ask.md",
     "Year 1 inventory.md",
     "Societies.md",
     "Success Criteria.md",
     "Politics.md",
-    "Welcome.md",
     "Research Information.md",
     "PC specs.md",
     "Testing.md",
@@ -253,14 +252,12 @@
     "Labour Party.md",
     "Liberal Democrats.md",
     "create a link.md",
-    "Reform UK.md",
     "Conservatives.md",
     "2024 UK Election.md",
     "Turtle Civilisation.md",
     "Factorio furnace calculations.md",
     "Tags",
     "Vault.md",
-    "Templates/Political Party Note.md",
     "Templates",
     "Design of the program.md",
     "Assets/turtle_recipe.png",

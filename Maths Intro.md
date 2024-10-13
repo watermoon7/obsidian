@@ -28,7 +28,7 @@ Michaelmas Term
 - ﻿﻿M3: Probability
 
 Hilary Term  
-- MI: Linear Algebra lI  
+- MI: Linear Algebra II
 - M1: Groups and Group Actions
 - ﻿﻿M2: Analysis I - Continuity and Differentiability
 
