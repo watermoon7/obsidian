@@ -1,11 +1,11 @@
+---
+tags: uni
+---
 # Sports
 
 - Badminton
 - Climbing
-- Judo
 - Mixed Martial Arts
-- Shorinji Kempo
-
 # Academic
 
 - The Invariants (maths society)
@@ -14,10 +14,7 @@
 - Science Society
 - Biology Society
 - AI society
-- OxBig
-
 # Other
 
 - Assassins Guild
 - Historical Reenactment Society
-- 
