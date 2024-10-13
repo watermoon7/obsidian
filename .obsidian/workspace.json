@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maths Intro.md",
+                "file": "Societies To Try.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maths Intro.md",
+                "file": "Societies To Try.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maths Intro.md",
+                "file": "Societies To Try.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maths Intro.md"
+                "file": "Societies To Try.md"
               }
             }
           },
@@ -223,8 +223,9 @@
   },
   "active": "f09a9de0a0cce983",
   "lastOpenFiles": [
-    "UNI.md",
     "Maths Intro.md",
+    "Societies To Try.md",
+    "UNI.md",
     "Year 1 inventory.md",
     "Questions to ask.md",
     "Success Criteria.md",
